@@ -16,7 +16,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/Sheazer/sql_request.git
+   git clone https://github.com/Sheazer/finance_fr.git
    cd stock-analysis-tool
 2. Установите зависимости:
     ```bash
